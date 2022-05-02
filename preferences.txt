@@ -1,0 +1,5 @@
+favoriteMovie	:	Breakfast at Tiffany's
+favoriteSeries	:	Method
+favoriteFood	:	Cake
+favoriteSeason	:	Summer
+wishCountry	:	Italy
