@@ -1,0 +1,5 @@
+name	:	Takaraka
+age	:	41
+countOfPets	:	0
+desiredSalary	:	1000 USD
+
